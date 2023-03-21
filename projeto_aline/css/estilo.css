@@ -1,0 +1,15 @@
+body{
+    background-color: darksalmon;
+}
+
+#titulo_do_game{
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 45px;
+    color: rgba(0, 0, 0, 0.692);
+}
+
+#imagem{
+    width: 43%;
+    height: 43%;
+}
